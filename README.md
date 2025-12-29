@@ -1,8 +1,48 @@
-- 👋 Hi, I’m @barathrahav
-- 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on new project
-- 📫 How to reach me https://www.linkedin.com/in/barath-rahav-46ba967a/
+# 👋 Hi, I’m Barath Rahav (@barathrahav)
+
+💻 **Full Stack / Application Developer** passionate about building scalable, real-world applications.
+
+---
+
+## 👀 Interests
+- Application Development
+- Full Stack Web Development
+- Mobile App Development
+- Building products end-to-end
+
+---
+
+## 🌱 Currently Learning
+- Flutter & Dart
+- Advanced backend architecture
+- Cloud-based deployments
+
+---
+
+## 💞️ Looking to Collaborate On
+- Full-stack web applications
+- Mobile apps (Flutter / React Native)
+- Startup or freelance projects
+- Open-source contributions
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** React, JavaScript, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express, MongoDB  
+**Mobile:** Flutter (learning)  
+**Tools:** Git, GitHub, REST APIs, Cloudinary  
+
+---
+
+## 📫 How to Reach Me
+- 🔗 LinkedIn: [barathrahav](https://www.linkedin.com/in/barathrahav/)
+- 💼 Open to freelance & collaboration opportunities
+
+---
+
+⭐ *Feel free to check out my repositories and connect with me!*
+
 
 <!---
 barathrahav/barathrahav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
