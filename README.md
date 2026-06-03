@@ -1,50 +1,115 @@
-# 👋 Hi, I’m Barath Rahav (@barathrahav)
+# 👋 Hi, I'm Barath Rahav
 
-💻 **Full Stack / Application Developer** passionate about building scalable, real-world applications.
+### 🚀 Founder @ Code2Crest Technologies | Full Stack Developer
+
+Passionate about building scalable web applications, e-commerce platforms, and custom software solutions that solve real-world business problems.
 
 ---
 
-## 👀 Interests
-- Application Development
-- Full Stack Web Development
-- Mobile App Development
-- Building products end-to-end
+## 🏢 About Me
+
+I'm a Full Stack Developer with 5+ years of experience designing and developing modern web applications using React, Next.js, Node.js, MongoDB, and related technologies.
+
+As the Founder of **Code2Crest Technologies**, I help startups and businesses build:
+
+* 🌐 Business Websites
+* 🛒 E-Commerce Platforms
+* ⚙️ Custom Software Solutions
+* 📱 Mobile Applications
+* ☁️ Scalable Cloud-Based Applications
+
+---
+
+## 🛠 Technology Stack
+
+### Frontend
+
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Strapi CMS
+
+### Database
+
+* MongoDB
+* MySQL
+
+### Mobile
+
+* React Native
+* Flutter (Learning)
+
+### Tools & Platforms
+
+* Git & GitHub
+* Vercel
+* Cloudinary
+* Postman
+* Zoho Mail
 
 ---
 
 ## 🌱 Currently Learning
-- Flutter & Dart
-- Advanced backend architecture
-- Cloud-based deployments
+
+* Advanced TypeScript
+* System Design
+* Cloud Architecture
+* Flutter & Dart
+* AI-assisted Development
 
 ---
 
-## 💞️ Looking to Collaborate On
-- Full-stack web applications
-- Mobile apps (Flutter / React Native)
-- Startup or freelance projects
-- Open-source contributions
+## 💼 Featured Projects
+
+### 🚀 Code2Crest Technologies
+
+Official company website built with Next.js, Tailwind CSS, and deployed on Vercel.
+
+🌐 https://www.code2crest.com
+
+### 🛒 Multi-Vendor E-Commerce Platform
+
+Scalable marketplace solution using React, Node.js, MongoDB, and Strapi.
+
+### 📊 School & Business Management Systems
+
+Custom ERP and dashboard solutions for business operations and reporting.
 
 ---
 
-## 🛠 Tech Stack
-**Frontend:** React, JavaScript, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express, MongoDB  
-**Mobile:** Flutter (learning)  
-**Tools:** Git, GitHub, REST APIs, Cloudinary  
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+* Full Stack Web Applications
+* SaaS Products
+* Startup Projects
+* Open Source Contributions
+* Freelance Development Opportunities
 
 ---
 
-## 📫 How to Reach Me
-- 🔗 LinkedIn: [barathrahav](https://www.linkedin.com/in/barathrahav/)
-- 💼 Open to freelance & collaboration opportunities
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/barathrahav
+
+🌐 Website: https://www.code2crest.com
+
+💼 Company: Code2Crest Technologies
+
+📍 Erode, Tamil Nadu, India
 
 ---
 
-⭐ *Feel free to check out my repositories and connect with me!*
-
-
-<!---
-barathrahav/barathrahav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ Feel free to explore my repositories and connect with me. I'm always excited to build impactful products and collaborate with passionate people.
