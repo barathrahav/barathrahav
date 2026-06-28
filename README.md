@@ -8,7 +8,7 @@ Passionate about building scalable web applications, e-commerce platforms, and c
 
 ## 🏢 About Me
 
-I'm a Full Stack Developer with 6+ years of experience designing and developing modern web applications using React, Next.js, Node.js, MongoDB, and related technologies.
+I'm a Full Stack Developer with 9+ years of experience designing and developing modern web applications using React, Next.js, Node.js, MongoDB, and related technologies.
 
 As the Founder of **Code2Crest Technologies**, I help startups and businesses build:
 
